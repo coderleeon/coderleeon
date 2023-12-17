@@ -1,6 +1,6 @@
 <h1 align="center">Hey there!! 👋, I'm Leeon John</h1>
 <h3 align="center">Passionate Data Scientist who loves machine learning more than anything</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/db1b048428da6a9bed9a962c938aa14a4d38ccb32e510e7ea3af8804df9a7112/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313239323637372f73637265656e73686f74732f363133393136372f6176656e746f2e676966">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderleeon&label=Profile%20views&color=0e75b6&style=flat" alt="coderleeon" /> </p>
 
@@ -55,8 +55,8 @@
    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
    </a> 
-   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
+      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
    </a> 
-   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo
+   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850
