@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/leeonjohn_" target="blank"><img src="https://img.shields.io/twitter/follow/leeonjohn_?logo=twitter&style=for-the-badge" alt="leeonjohn_" /></a> </p>
 
-- 🔭 I’m currently working on **Computer Vision**
+- 🔭 I’m currently working on **Computer Vision , Node js**
 
-- 🌱 I’m currently learning **Deep Learning, Artificial Intelligence**
+- 🌱 I’m currently learning **Deep Learning, Artificial Intelligence , Website development**
 
-- 💬 Ask me about **Python, Data Science, Machine Learning, Computer vision**
+- 💬 Ask me about **Python, Data Science, Machine Learning, Computer vision, MERN Stack**
 
 - 📫 How to reach me **leeon.01.lj@gmail.com**
 
