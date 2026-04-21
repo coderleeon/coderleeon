@@ -48,5 +48,5 @@ Python • PyTorch • FastAPI • LLM APIs • RAG • Docker • CI/CD • SQL
 
 - Twitter(X): https://x.com/LeeonJohn_
 - LinkedIn: https://www.linkedin.com/in/leeon-john-14172a159/  
-- Resume: https://drive.google.com/file/d/1TNGsjkX1YOh48SXC81G_KdluiwN4vpj0/view  
+- Resume: https://drive.google.com/file/d/1AxX67f5Gv1IB4a55Au6lbqJVMVZa8nwk/view
 
