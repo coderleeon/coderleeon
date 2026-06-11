@@ -7,11 +7,9 @@ AI Engineer | Agent Systems | MCP | LLM Evaluation
 </h3>
 
 <p align="center">
-  <a href="https://leeon-portfolio.vercel.app/">Portfolio</a> •
-  <a href="https://open-source-pilot.vercel.app/">OpenSourcePilot</a> •
   <a href="https://x.com/LeeonJohn_">X</a> •
   <a href="https://www.linkedin.com/in/leeon-john-14172a159/">LinkedIn</a> •
-  <a href="https://github.com/coderleeon">GitHub</a>
+    <a href="https://leeon-portfolio.vercel.app/">Portfolio</a>
 </p>
 
 ---
