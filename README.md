@@ -1,52 +1,65 @@
-<h1 align="center">Leeon John</h1>
-<h3 align="center">LLM Systems Engineer — Evaluation, Reliability, and Agent Workflows</h3>
+# Hi, I'm Leeon John
+
+### AI Engineer | Agent Systems | MCP | LLM Evaluation
+
+I build production-oriented AI systems focused on reliability, evaluation, agent orchestration, and developer tooling.
 
 ---
 
-## What I Do
+## Featured Projects
 
-I build **production-oriented AI systems**, focusing on:
-- LLM evaluation & observability  
-- Agent-based workflows  
-- Retrieval-augmented systems  
-- Scalable backend integration (APIs, pipelines, infra)
+### OpenSourcePilot
+
+AI-powered contribution assistant that analyzes GitHub repositories, understands issues, performs semantic code search, generates implementation plans, drafts pull requests, and creates test suites.
+
+**Stack:** FastAPI, Next.js, ChromaDB, OpenRouter, Railway, Vercel
+
+### ResearchPilot MCP
+
+MCP-powered multi-agent research assistant with retrieval, planning, tool execution, and citation-aware report generation.
+
+**Focus Areas:**
+
+* Model Context Protocol (MCP)
+* Multi-agent orchestration
+* Research automation
+* Tool integrations
+
+### BenchLytics
+
+Evaluation and observability platform for benchmarking LLMs across reasoning, correctness, latency, cost, and reliability.
+
+### Evalynx
+
+LLM evaluation and self-improvement engine using automated judging, scoring, comparison, and refinement workflows.
+
+### OrionAI
+
+Production-grade agent orchestration engine supporting planning, retrieval, execution, and self-correction workflows.
 
 ---
 
-## Key Work
+## What I Focus On
 
-### Benchlytics — LLM Evaluation & Observability Platform
-- Compare models on reasoning, correctness, latency, and cost  
-- Track failure modes (hallucinations, format errors, refusals)  
-- Config-driven experiments with CI/CD and structured logging  
-
-### OrionAI — Autonomous Agent System
-- Multi-step task execution with planning and iteration  
-- Tool usage, retry strategies, and workflow orchestration  
-
-### EduRAG — Personalized Learning System
-- Retrieval-based explanations with quiz generation  
-- Focus on structured outputs and content reliability  
-
----
-
-## Engineering Focus
-
-- Building **reliable LLM systems**, not just demos  
-- Designing **evaluation pipelines** for model comparison  
-- Handling **real-world constraints**: latency, cost, failure cases  
+* Agentic AI Systems
+* LLM Evaluation & Observability
+* MCP Infrastructure
+* Retrieval-Augmented Systems
+* AI Reliability Engineering
+* Developer Productivity Tools
 
 ---
 
 ## Tech Stack
 
-Python • PyTorch • FastAPI • LLM APIs • RAG • Docker • CI/CD • SQL
+Python • FastAPI • PyTorch • LangGraph • MCP • ChromaDB • Docker • PostgreSQL • CI/CD • Vercel • Railway
 
 ---
 
 ## Links
 
-- Twitter(X): https://x.com/LeeonJohn_
-- LinkedIn: https://www.linkedin.com/in/leeon-john-14172a159/  
-- Resume: https://drive.google.com/file/d/1AxX67f5Gv1IB4a55Au6lbqJVMVZa8nwk/view
-
+* GitHub: https://github.com/coderleeon
+* Portfolio: https://leeon-portfolio.vercel.app/
+* OpenSourcePilot: https://open-source-pilot.vercel.app/
+* LinkedIn: https://www.linkedin.com/in/leeon-john-14172a159/
+* X: https://x.com/LeeonJohn_
