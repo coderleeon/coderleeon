@@ -1,8 +1,33 @@
-# Hi, I'm Leeon John
 
-### AI Engineer | Agent Systems | MCP | LLM Evaluation
+
+<h1 align="center">Leeon John</h1>
+
+<h3 align="center">
+AI Engineer | Agent Systems | MCP | LLM Evaluation
+</h3>
+
+<p align="center">
+  <a href="https://leeon-portfolio.vercel.app/">Portfolio</a> •
+  <a href="https://open-source-pilot.vercel.app/">OpenSourcePilot</a> •
+  <a href="https://x.com/LeeonJohn_">X</a> •
+  <a href="https://www.linkedin.com/in/leeon-john-14172a159/">LinkedIn</a> •
+  <a href="https://github.com/coderleeon">GitHub</a>
+</p>
+
+---
+
+## About Me
 
 I build production-oriented AI systems focused on reliability, evaluation, agent orchestration, and developer tooling.
+
+My interests include:
+
+* Agentic AI Systems
+* Model Context Protocol (MCP)
+* LLM Evaluation & Observability
+* Retrieval-Augmented Generation (RAG)
+* AI Infrastructure & Deployment
+* Developer Productivity Tools
 
 ---
 
@@ -10,13 +35,17 @@ I build production-oriented AI systems focused on reliability, evaluation, agent
 
 ### OpenSourcePilot
 
-AI-powered contribution assistant that analyzes GitHub repositories, understands issues, performs semantic code search, generates implementation plans, drafts pull requests, and creates test suites.
+AI-powered open-source contribution assistant that analyzes GitHub repositories, understands issues, performs semantic code search, generates implementation plans, drafts pull requests, and creates test suites.
 
-**Stack:** FastAPI, Next.js, ChromaDB, OpenRouter, Railway, Vercel
+**Stack:** FastAPI, Next.js, ChromaDB, OpenRouter, Sentence Transformers, Railway, Vercel, GitHub API
+
+**Live Demo:** https://open-source-pilot.vercel.app/
+
+---
 
 ### ResearchPilot MCP
 
-MCP-powered multi-agent research assistant with retrieval, planning, tool execution, and citation-aware report generation.
+MCP-powered research assistant that combines retrieval, planning, tool execution, and report generation through standardized agent workflows.
 
 **Focus Areas:**
 
@@ -24,43 +53,98 @@ MCP-powered multi-agent research assistant with retrieval, planning, tool execut
 * Multi-agent orchestration
 * Research automation
 * Tool integrations
-
-### BenchLytics
-
-Evaluation and observability platform for benchmarking LLMs across reasoning, correctness, latency, cost, and reliability.
-
-### Evalynx
-
-LLM evaluation and self-improvement engine using automated judging, scoring, comparison, and refinement workflows.
-
-### OrionAI
-
-Production-grade agent orchestration engine supporting planning, retrieval, execution, and self-correction workflows.
+* Context-aware workflows
 
 ---
 
-## What I Focus On
+### BenchLytics
 
-* Agentic AI Systems
-* LLM Evaluation & Observability
-* MCP Infrastructure
-* Retrieval-Augmented Systems
-* AI Reliability Engineering
-* Developer Productivity Tools
+LLM evaluation and observability platform for benchmarking models across reasoning quality, correctness, latency, cost, and reliability.
+
+**Features:**
+
+* Automated evaluation pipelines
+* Hallucination detection
+* Structured experiment tracking
+* Performance monitoring
+
+---
+
+### Evalynx
+
+Evaluation framework for comparing, scoring, and improving LLM outputs through automated judging and feedback-driven refinement.
+
+**Focus Areas:**
+
+* LLM benchmarking
+* Response scoring
+* Output comparison
+* Reliability assessment
+
+---
+
+### OrionAI
+
+Agent workflow framework supporting planning, retrieval, tool usage, execution, and self-correction.
+
+**Focus Areas:**
+
+* Agent orchestration
+* Multi-step reasoning
+* Tool calling
+* Autonomous workflows
+
+---
+
+## Engineering Focus
+
+* Building reliable AI systems instead of one-off demos
+* Designing evaluation pipelines for model benchmarking
+* Developing agent workflows and orchestration frameworks
+* Creating scalable retrieval and semantic search systems
+* Improving AI reliability, observability, and cost efficiency
 
 ---
 
 ## Tech Stack
 
-Python • FastAPI • PyTorch • LangGraph • MCP • ChromaDB • Docker • PostgreSQL • CI/CD • Vercel • Railway
+### Languages
+
+Python • SQL • JavaScript • TypeScript
+
+### AI & Machine Learning
+
+PyTorch • Transformers • OpenAI APIs • Anthropic APIs • RAG • Embeddings • MCP
+
+### Backend & Infrastructure
+
+FastAPI • Docker • Railway • Vercel • GitHub Actions • CI/CD
+
+### Data & Storage
+
+PostgreSQL • ChromaDB • Vector Databases
 
 ---
 
-## Links
+## Current Focus
 
-* X: https://x.com/LeeonJohn_
-* LinkedIn: https://www.linkedin.com/in/leeon-john-14172a159/
-* Portfolio: https://leeon-portfolio.vercel.app/
-* OpenSourcePilot: https://open-source-pilot.vercel.app/
+* Agentic AI Applications
+* MCP Ecosystem Development
+* LLM Evaluation Systems
+* AI Reliability Engineering
+* Open-Source AI Tooling
 
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=coderleeon&show_icons=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderleeon" />
+</p>
+
+---
 
