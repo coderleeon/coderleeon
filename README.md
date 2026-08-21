@@ -3,7 +3,7 @@
 <h1 align="center">Leeon John</h1>
 
 <h3 align="center">
-AI Engineer | Agent Systems | MCP | LLM Evaluation
+AI Engineer | Agent Systems | MCP | LLM Evaluation | Agentic AI
 </h3>
 
 <p align="center">
